@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @iamnicolealmeida
-- 👀 I’m interested in programming & producing music
+- 👋 Hi, I’m Nicole
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 😄 Pronouns: she/her
 
